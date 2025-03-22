@@ -1,12 +1,47 @@
-# React + Vite
+# WeatherX 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WeatherX is a modern, responsive weather application designed to provide real-time weather updates, forecasts, and detailed climate information for cities worldwide. Built with **React** and **Material-UI**, it offers a seamless user experience for tracking weather conditions.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features ✨
+- **Real-Time Weather Updates**: Get current weather conditions for any city.
+- **Detailed Forecasts**: View 7-day weather forecasts.
+- **Climate Metrics**: Temperature, humidity, wind speed, and more.
+- **Search Functionality**: Easily search for weather by city name.
+- **Responsive Design**: Works flawlessly on desktop and mobile devices.
+
+---
+
+## Technologies Used 🛠️
+- **Frontend**: React, Material-UI
+- **API**: OpenWeatherMap API
+- **Version Control**: Git and GitHub
+- **Package Manager**: npm
+
+---
+
+## Installation 🚀
+
+### Prerequisites
+Before you begin, ensure you have the following installed:
+- **Node.js** (v16 or higher)
+- **npm** (Node Package Manager)
+- **Git** (for cloning the repository)
+
+Step 1: Clone the Repository
+git clone https://github.com/alokPW/WeatherX.git
+
+Step 2: Navigate to the Project Directory
+cd WeatherX
+
+Step 3: Install Dependencies
+npm install
+
+Step 5: Start the Development Server
+npm start
+
+This will open the app in your default browser at http://localhost:3000.
+
